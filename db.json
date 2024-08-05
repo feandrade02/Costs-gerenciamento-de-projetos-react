@@ -1,17 +1,6 @@
 {
   "projects": [
     {
-      "id": "4633",
-      "name": "projeto 1",
-      "budget": "3000",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
       "id": "dbe7",
       "name": "teste3 atualizado",
       "budget": "7000",
